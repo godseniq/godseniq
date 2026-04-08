@@ -2,10 +2,10 @@
 
 🚀 **AI-focused Developer** passionate about building intelligent systems and experimenting with modern LLM technologies.
 
-* 🎓 Studying at **[Uzhhorod National University](https://www.uzhnu.edu.ua/)** — Computer Engineering, graduating 2026 
-* 🏗️ Building end-to-end solutions: **FastAPI** → **LangChain** → **Vector DBs** → **Docker** 
-* 🌱 Deepening skills in **AI Agents**, **RAG**, and **LLM architectures** 
-* 📫 Reach me at: **goodsenig@gmail.com** 
+* 🎓 Currently pursuing a Bachelor's Degree in Computer Engineering at **[Uzhhorod National University](https://www.uzhnu.edu.ua/)** (Expected Graduation: 2026)
+* 🏗️ Developing robust, production-ready pipelines by integrating high-performance FastAPI backends with LangChain orchestration, leveraging Vector Databases like FAISS and ChromaDB for semantic search, and ensuring seamless, scalable deployment through Docker containerization.
+* 🌱 Actively advancing my skills in AI Agents, advanced RAG (Retrieval-Augmented Generation) architectures, and LLM orchestration to build high-accuracy assistants that solve complex problems while minimizing model hallucinations.
+* 📫 Feel free to reach me at: **goodsenig@gmail.com** 
 
 ### 🌐 Socials:
 
