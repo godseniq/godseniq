@@ -12,7 +12,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-hleba)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/godseniqq)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vasyahleba.follow/)
-[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goodsenig@gmail.com?subject=Hi%20Vasyl!%20I%20saw%20your%20GitHub)
 
 ### 💻 Tech Stack:
 
